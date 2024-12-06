@@ -53,6 +53,10 @@ bash training_scripts/llama2/run_llama2_tlcr.sh
 ```
 
 
+#### Modified Dataset
+You can download the modified dataset we used from [Google Drive](https://drive.google.com/drive/folders/1JzzGe9RPg34NZjn_9z6rWCe-__Gqwvub?usp=sharing)
+It includes 40% of the HH-RLHF dataset.
+
 ## Acknowledgement
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2022-0-00951, Development of Uncertainty-Aware Agents Learning by Asking Questions), Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government(MSIT) [RS-2021-II212068, Artificial Intelligence Innovation Hub (Seoul National University)] and Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT)(No. RS-2019-II190079, Artificial Intelligence Graduate School Program, Korea University).
 
