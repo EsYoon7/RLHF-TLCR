@@ -1,7 +1,7 @@
 # RLHF-TLCR
 [ACL'24 Findings] Official code for "TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback"
 
-This repository provides the official implementation of our ICLR 2024 paper:
+This repository provides the official implementation of our ACL 2024 paper:
 > TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback   
 > Authors: Eunseop Yoon*, Hee Suk Yoon*, SooHwan Eom*, Gunsoo Han, Daniel Wontae Nam, Daejin Jo, Kyoung-Woon On, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
 
